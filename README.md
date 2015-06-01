@@ -1,5 +1,5 @@
 # Multimedia_Synch
-A software to simply calculate the delay between two correalted Multimedai contents and align them accordingly.
+A software to simply calculate the delay between two correlated Multimedia contents and align them accordingly.
 
 Pre-requisites on Linux or Mac 
 
@@ -11,6 +11,6 @@ After installation you can clone the source code with
     
 The .pro file should be opened with qtcreator
 
-On the GUI after loading the main and reference the 'start' button should be hit, then wait until the software actually finishes processing and you can listen to audio files before and after they are synchronized.
+On the GUI after loading the main and reference hit the 'start' button, then wait until the software actually finishes processing and you can listen to audio files before and after they are synchronized.
 
 
